@@ -1,4 +1,4 @@
-# knn-diabetes
+# kNN-Diabetes
 Model for classifying test objects in two classes - has diabetes and no diabetes
 
 There are two versions of the model:
