@@ -7,7 +7,8 @@ There are two versions of the model:
   - One using cosine similarity (Knn-cos.py) (
 This report used the cosine proximity measure)
 
-### Understanding the model and the dataset
+# Understanding the model and the dataset
+## Sumary
   1. Introduction
   2. Development
   3. Conclusion
